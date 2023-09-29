@@ -3,10 +3,11 @@ An easy way to create a strong, random password.
 
 
 ## Description
+![alt text](./assets/assets/images/password%20stock.png)
 
 Create random passwords instantly with this Password Generator!
 Tailer your passwords to meet your specific requirements: length, upper and lower case letters, numbers, and special characters. 
-Completely free: no-login required; ad-free.
+**Completely free**: no-login required; ad-free.
 
 
 ## Table of Contents (Optional)
@@ -14,7 +15,6 @@ Completely free: no-login required; ad-free.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
@@ -41,34 +41,9 @@ Free to use! No login required! Simply [click here](https://kathrynfisher3700.gi
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Thank you to Brandon B. & Chris. P from my UCF Coding Bootcamp, Fall 2023 class.
+Parameters outlined by UCF Coding Bootcamp.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+JavaScript If Else statements found here: [W3 Schools](https://www.w3schools.com/js/js_if_else.asp).
 
-If you followed tutorials, include links to those here as well.
 
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.

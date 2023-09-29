@@ -107,7 +107,7 @@ function generatePassword() {
     console.log(password, PW.join(''));
   }
   }
-  return;
+
 }
 
 
@@ -117,4 +117,5 @@ function writePassword() {
 
   passwordText.value = password;
 }
+
 generateBtn.addEventListener("click", writePassword);
