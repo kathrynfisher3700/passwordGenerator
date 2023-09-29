@@ -7,8 +7,8 @@ let lowercase = ["a", "b","c","d","e", "f", "g", "h", "i", "j", "k", "l", "m", "
 let uppercase = [ "A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z",];
 let specialChar = ["!", "#", "$", "^", "&", "(", ")", "/", "?", "."];
 //New arrays for selected and randomized characters
-let randarr = [];
 let finalPW = [];
+let randarr = [];
 
 
 //:.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.://
