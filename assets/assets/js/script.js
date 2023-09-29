@@ -104,10 +104,10 @@ function generatePassword() {
     for (x = 0; x > length; x++){
     let randPick = [Math.floor(Math.random() * randarr.length)];
     let finalPW = finalPW.concat(randPick);
-    // console.log(PW.join(''));
+    console.log(password, PW.join(''));
   }
   }
-  return;
+
 }
 
 
@@ -117,4 +117,5 @@ function writePassword() {
 
   passwordText.value = password;
 }
+
 generateBtn.addEventListener("click", writePassword);
