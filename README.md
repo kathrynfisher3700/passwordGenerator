@@ -36,9 +36,11 @@ Free to use! No login required! Simply [click here](https://kathrynfisher3700.gi
 
 **Step 7**: Done! Copy your password in a secure location.
 
-**Most Important**: website MUST be refreshed before using again (this is a work in progress; feel free to collaborate!)
+**Most Important**: website MUST be refreshed before generating an additional password (this is a work in progress; feel free to collaborate!)
 
 ![alt text](./assets/assets/images/Password-Generator.png)
+
+You may notice the button color changing between visits 👀 Send me your color requests to see the magic!
 
 ## Credits
 
