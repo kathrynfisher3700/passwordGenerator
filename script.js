@@ -49,18 +49,19 @@ function generatePassword() {
   }
 
 //:.:.:.:.:.:input must include at lease one character type (if nothing, invalid):.:.:.:.:.:// 
-  if ((randarr = "")) {
+  if ((randarr.length === 0)) {
     alert("Password cannot be generated; no characters selected");
-    generatePassword();
+    return generatePassword();
   } else {
-    for (x = 0; x > length; x++) {
-      let randPick = [Math.floor(Math.random() * randarr.length)];
-      var finalPW = finalPW.concat(randPick);
-      console.log(password, PW.join(""));
+    for (let x = 0; x < length; x++) {
+      let randPick = randarr[Math.floor(Math.random() * randarr.length)];
+      finalPW.push(randPick);
     }
+    return finalPW.join("");
   }
 
 }
+
 
 //:.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.://
 //pushes answer to display
